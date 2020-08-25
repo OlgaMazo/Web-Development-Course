@@ -1,0 +1,103 @@
+body {
+  background-color: #E0F8F7;
+  margin: 0;
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1 {
+  margin: 0;
+  font-size: 3.75rem;
+  color: #00b7c2;
+}
+
+h3 {
+  margin: 0;
+  color: #00bcd4;
+}
+h4 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+.first-container {
+  position: relative;
+  padding-top: 150px;
+}
+.second-container {
+  padding-top: 100px;
+  text-align: left;
+  position: relative;
+  left: 300px;
+}
+.third-container {
+  padding-top: 20px;
+  text-align: left;
+  position: relative;
+  left: 300px;
+}
+.fourth-container {
+  padding-top: 20px;
+  text-align: left;
+  position: relative;
+  left: 300px;
+}
+.fifth-container {
+  padding-top: 20px;
+  text-align: left;
+  position: relative;
+  left: 300px;
+}
+.sixth-container {
+  padding-top: 20px;
+  text-align: left;
+  position: relative;
+  left: 300px;
+}
+.summary-id {
+ position: absolute;
+ left: 300px;
+ top: 100px;
+}
+ .education-id {
+  position: absolute;
+  left: 300px;
+  top: 2px;
+}
+.military-id {
+  position: absolute;
+  left: 300px;
+  top: 2px;
+}
+.skills-id {
+  position: absolute;
+  left: 300px;
+  top: 10px;
+}
+.lanquages-id {
+  position: absolute;
+  left: 300px;
+  top: 10px;
+  padding-bottom: 10px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+.olga-img {
+  width: 20rem;
+  height: 20rem;
+  padding-top: 50px;
+  border-radius: 60%;
+}
+p {
+  margin: 0;
+  color: #00b7c2;
+}
